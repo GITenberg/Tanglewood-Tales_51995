@@ -1,5 +1,5 @@
 _repo: Tanglewood-Tales_51995
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Sterrett, Virginia Frances
@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '34392'
     url: http://www.gutenberg.org/2009/agents/34392
     wikipedia: http://en.wikipedia.org/wiki/Virginia_Frances_Sterret
+covers:
+- cover_type: archival
+  image_path: 51995-h/images/cover.jpg
 creator:
   author:
     agent_name: Hawthorne, Nathaniel
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/28
     wikipedia: http://en.wikipedia.org/wiki/Nathaniel_Hawthorne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51995#Tanglewood-Tales
 gutenberg_issued: '2016-05-03'
 gutenberg_type: Text
 identifiers:
