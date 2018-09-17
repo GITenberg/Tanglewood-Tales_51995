@@ -1,0 +1,35 @@
+_repo: Tanglewood-Tales_51995
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Sterrett, Virginia Frances
+    birthdate: 1900
+    deathdate: 1931
+    gutenberg_agent_id: '34392'
+    url: http://www.gutenberg.org/2009/agents/34392
+    wikipedia: http://en.wikipedia.org/wiki/Virginia_Frances_Sterret
+creator:
+  author:
+    agent_name: Hawthorne, Nathaniel
+    birthdate: 1804
+    deathdate: 1864
+    gutenberg_agent_id: '28'
+    url: http://www.gutenberg.org/2009/agents/28
+    wikipedia: http://en.wikipedia.org/wiki/Nathaniel_Hawthorne
+description: ''
+gutenberg_issued: '2016-05-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51995'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Mythology, Classical -- Juvenile literature'
+- GITenberg
+tableOfContents: The minotaur -- The pygmies -- The dragon's teeth -- Circe's palace
+  -- The pomegranate seeds -- The golden fleece.
+title: Tanglewood Tales
+url: http://www.gutenberg.org/ebooks/51995
